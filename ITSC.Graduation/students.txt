@@ -1,0 +1,6 @@
+﻿Juan Jose Perez,Ingeniería,Magna cum Laude
+María Medina,Medicina,
+Luis Abinader,Economista,Suma Cum Laude
+Ana Simo,Psicología,
+Carlos Sanchez,Contabilidad,Cum Laude
+Sofía Delgado,Derecho,
